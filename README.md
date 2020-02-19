@@ -1,4 +1,4 @@
-mediawiki-extensions-GoogleAnalytics
+# mediawiki-extensions-GoogleAnalytics
 
 This extension attaches the Google Analytics script into the MediaWiki pages
 
