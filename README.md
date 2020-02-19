@@ -2,7 +2,7 @@
 
 This extension attaches the Google Analytics script into the MediaWiki pages
 
-## Usage
+## Install
 See how to [install extensions](https://www.mediawiki.org/wiki/Manual:Extensions#Installing_an_extension)
 
 Download, unpack, rename the unpacked directory to `GoogleAnalytics` and then just put this directory with the scripts into `MediaWiki` extensions directory.
