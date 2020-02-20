@@ -14,5 +14,9 @@ wfLoadExtension( 'GoogleAnalytics' );
 
 // Paste here your Google Analytics account id
 $wgGoogleAnalyticsAccountId = "XX-XXXXXXXXX-X";
+
+// Set this flag to true, if you want to attach Google Analytics script on special pages
+// default is false
+$wgGoogleAnalyticsShowOnSpecials = true;
 ```
 That's all. This extension is not using the upgradable mechanism. You don't need to find out how to run `upgrading an extension`
